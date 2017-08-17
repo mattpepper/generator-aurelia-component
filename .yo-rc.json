@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "mattpepper",
+      "authorEmail": "matt.pepper@outlook.com",
+      "authorUrl": "http://github.com/mattpepper"
+    }
+  }
+}
