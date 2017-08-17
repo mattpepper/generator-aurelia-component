@@ -1,4 +1,4 @@
-require('./<%= ComponentName %>.scss');
+require('./<%= FileName %>.scss');
 
 export class <%= ComponentName %> {
   constructor(){
